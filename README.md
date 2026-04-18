@@ -114,6 +114,7 @@ git clone https://gitee.com/JinGuYuan/jinguyuan-dumpling-skill.git \
 |------|------|
 | 协议 | MCP (Model Context Protocol) |
 | 传输 | Streamable HTTP |
+| MCP 端点 | https://mcp.jinguyuan.cloud |
 | 部署 | Tencent CloudBase 云函数 |
 
 ## 版本
